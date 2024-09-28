@@ -1,0 +1,15 @@
+{
+  "membros": [
+    {
+      "id": "1",
+      "nome": "João",
+      "pontos": 4
+    },
+    {
+      "id": "2",
+      "nome": "Maria",
+      "pontos": 1
+    }
+  ],
+  "tarefas": []
+}
